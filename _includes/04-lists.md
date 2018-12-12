@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- put book on the desktop
+- create nw branch
